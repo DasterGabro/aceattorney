@@ -7,14 +7,14 @@
     },
     {
       "name":"Nod",
-      "pre":"nod"
+      "pre":"nod",
       "talking":"normal_talk",
       "idle":"normal"
-    }
+    },
     {
       "name":"Standing",
       "talking":"pointing_talk",
-      "idle":"pointing"
+      "idle":"pointing",
       "pre":"pointing_start"
     }
     ]
