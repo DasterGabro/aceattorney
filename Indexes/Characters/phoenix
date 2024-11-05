@@ -1,0 +1,21 @@
+{
+  "poses":[
+    {
+      "name":"Standing",
+      "talking":"normal_talk",
+      "idle":"normal"
+    },
+    {
+      "name":"Nod",
+      "pre":"nod"
+      "talking":"normal_talk",
+      "idle":"normal"
+    }
+    {
+      "name":"Standing",
+      "talking":"pointing_talk",
+      "idle":"pointing"
+      "pre":"pointing_start"
+    }
+    ]
+}
